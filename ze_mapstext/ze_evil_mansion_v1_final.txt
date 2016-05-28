@@ -2,15 +2,15 @@
 {
 	"-=Map By Westsiderain=-"
 	{
-		"chi"		"**恶魔庄园 作者:Westsiderain**"
+		"chi"		"**地图作者:Westsiderain 翻译：八雲紫**"
 	}
 	"-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-"
 	{
-		"chi"		"**感谢SCA SERVER对本图的BETA测试!**"
+		"chi"		"**特别感谢SCA SERVER对本图的BETA测试!**"
 	}
 	"-= SCACLAN.COM >> 50.31.65.61:27015 =-"
 	{
-		"chi"		"**-= SCACLAN.COM >> 50.31.65.61:27015 =-**"
+		"chi"		"** **"
 	}
 	"**GET TO THE MANSION!**"
 	{
@@ -22,16 +22,16 @@
 	}
 	"-=Main door opens in 10 seconds!=-"
 	{
-		"chi"		"**别墅大门10秒后开启!**"
+		"chi"		"**别墅大门将在10秒内开启!**"
 	}
 	"-=Hold here for 40 seconds=-"
 	{
-		"chi"		"**坚守40秒**"
+		"chi"		"**在这里坚守40秒**"
 		"DoorCountdown"		"40"
 	}
 	"**Zombies ate the main gate!**"
 	{
-		"chi"		"**僵尸突破了外面的铁门!**"
+		"chi"		"**僵尸已经吃了外围的铁门!嗝！**"
 	}
 	"-=Defense System Activated.=-"
 	{
@@ -39,44 +39,44 @@
 	}
 	"**Lightning:  How bout some hardcore S&M boys?  Press the red button!!**"
 	{
-		"chi"		"**Lightning:不要按按钮,按了会出事的哟~**"
+		"chi"		"**雷霆：帅哥们，要不要来一些高难度的SM呢~?快按红色按钮哦~!!**"
 	}
 	"**Lightning: Oooo Yeah!!! Did that hurt?**"
 	{
-		"chi"		"**Lightning:疼么亲?还敢乱按按钮吗?**"
+		"chi"		"**雷霆:好舒服呀~有没有被我夹断呢~？**"
 	}
 	"-=Toilet Defense System Activated=-"
 	{
-		"chi"		"**厕所防御系统启动,杀死了一个进入里面的玩家**"
+		"chi"		"**厕所防御系统启动**"
 	}
 	"-=Door opens in 10 seconds.=-"
 	{
-		"chi"		"**10秒后开门**"
+		"chi"		"**大门将在10秒内开启**"
 	}
 	"-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-"
 	{
-		"chi"		"**大门坏了,请从两边的梯子撤离!**"
+		"chi"		"**大门卡住了,寻找另一条撤退路线!**"
 	}
 	"**Zombies held back for 5 seconds.**"
 	{
-		"chi"		"**僵尸将被挡住5秒**"
+		"chi"		"**僵尸将被空气墙挡住5秒**"
 	}
 	"**Those Planks Look Oftly Flimsy!**"
 	{
-		"chi"		"**不要走木板，会碎掉！**"
+		"chi"		"**这些木桥看起来有些娇脆哦！**"
 	}
 	"-=Hold here for 30 Seconds.=-"
 	{
-		"chi"		"**门30秒后打开**"
+		"chi"		"**坚守30秒**"
 		"DoorCountdown"		"30"
 	}
 	"-=A Player Has Been Raped By Sailormoon.=-"
 	{
-		"chi"		"**一名玩家已被美少女战士蹂躏致死.**"
+		"chi"		"**一名玩家已被月野兔强推致死.**"
 	}
 	"**Sailor Moon: Hey Boys!  I'm So Horny!  Come Touch Me!**"
 	{
-		"chi"		"** **"
+		"chi"		"**月野兔：大哥哥们，人家好污哦，快来推倒人家！ **"
 	}
 	"-=Zombies advance in 15 seconds.=-"
 	{
@@ -84,7 +84,7 @@
 	}
 	"**Sailor Moon: I'M CUMMIN FOR YOU!**"
 	{
-		"chi"		"**远离美少女战士!**"
+		"chi"		"**月野兔：我要来推倒你了哦！**"
 	}
 	"-=5 seconds remaining.=-"
 	{
@@ -92,11 +92,11 @@
 	}
 	"-=DOOR OPENED! Zombies held back for 5 seconds.=-"
 	{
-		"chi"		"**门开了!僵尸将被挡住5秒,不要跳到门外的铁环处!**"
+		"chi"		"**门开了!僵尸将被空气墙挡住5秒！**"
 	}
 	"**Does this copter have enough fuel?**"
 	{
-		"chi"		"**不要上直升机,会坠机!**"
+		"chi"		"**这架直升机有没有足够的燃料呢？**"
 	}
 	"-=Hold here for 20 seconds=-"
 	{
@@ -105,7 +105,7 @@
 	}
 	"-=Helicopter Departing in 10 Seconds.=-"
 	{
-		"chi"		"**直升机10秒后坠机**"
+		"chi"		"**直升机将在10秒后起飞**"
 	}
 	"-=MAYDAY! MAYDAY!!!=-"
 	{
@@ -113,19 +113,19 @@
 	}
 	"WE'RE GOING DOWN!!!"
 	{
-		"chi"		"**直升机坠机了!**"
+		"chi"		"**咸鱼们要自由落体啦!!**"
 	}
 	"-=WE'RE GOING DOWN!=-"
 	{
-		"chi"		"**直升机坠机了!**"
+		"chi"		"**咸鱼们要自由落体啦!!**"
 	}
 	"-=Door opened!  Zombies held back 5 seconds.=-"
 	{
-		"chi"		"**撤退!僵尸将被挡住5秒,前面不要跳白色柱子!**"
+		"chi"		"**门开了!僵尸将被空气墙挡住5秒**"
 	}
 	"-=Door opens in 20 seconds.=-"
 	{
-		"chi"		"**20秒后开门!**"
+		"chi"		"**大门将在20秒内开启**"
 		"DoorCountdown"		"20"
 	}
 	"-=Defense System Activated=-"
@@ -134,19 +134,19 @@
 	}
 	"-=Door opens in 5 seconds.=-"
 	{
-		"chi"		"**5秒后开门**"
+		"chi"		"**大门将在5秒内开启**"
 	}
 	"** Zombies are trapped for 15 secs or til CTs find a solution.**"
 	{
-		"chi"		"**僵尸将被困住15秒,人类请找到解决方法**"
+		"chi"		"**在僵尸被困住的15秒内，找到出去的方法。**"
 	}
 	"-=Find Dr. Valencia=-"
 	{
-		"chi"		"**找到Dr. Valencia**"
+		"chi"		"**找到瓦伦西亚博士**"
 	}
 	"**Dr. Valencia:  I'm in the john!**"
 	{
-		"chi"		"**Dr. Valencia:能不能让人好好蹲坑了!**"
+		"chi"		"**瓦伦西亚:我是不会告诉你我藏在厕所里的!**"
 	}
 	"-=Force her out!=-"
 	{
@@ -154,57 +154,57 @@
 	}
 	"**Dr. Valencia: HOW DARE YOU BREAK MY CAN!**"
 	{
-		"chi"		"**Dr. Valencia:你这是人干事!?**"
+		"chi"		"**瓦伦西亚:你竟敢打扰人家吃饭！**"
 	}
 	"**Dr Valencia:  Ok... I'll open the door.**"
 	{
-		"chi"		"**Dr. Valencia:好吧我会给你们开门.**"
+		"chi"		"**瓦伦西亚:好啦……我帮你开门就是了.**"
 	}
 	"-=Zombies released in 3 seconds=-"
 	{
-		"chi"		"**3秒后释放僵尸**"
+		"chi"		"**僵尸将在3秒内释放**"
 	}
 	"**Dr Valencia: Give me 15 seconds.**"
 	{
-		"chi"		"**Dr. Valencia:给我15秒开门.**"
+		"chi"		"**瓦伦西亚:我需要15秒开门，你们先顶住！**"
 		"DoorCountdown"		"15"
 	}
 	"**Dr. Valencia: I might need to expell some gas soon.**"
 	{
-		"chi"		"**Dr. Valencia:稍后我会在箱子旁边放点毒气.**"
+		"chi"		"**瓦伦西亚:接下来我可能还需要放一些奇怪的气体呢.**"
 	}
 	"-=Dr. Valencia:  Door opening in 5.=-"
 	{
-		"chi"		"**Dr. Valencia:还有5秒开门.**"
+		"chi"		"**瓦伦西亚:还有5秒开门.**"
 	}
 	"-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
 	{
-		"chi"		"**Dr. Valencia:门开了!进去守!**"
+		"chi"		"**瓦伦西亚:门开了!快进去!**"
 	}
 	"**Dr. Valencia: TAKE THIS!!!**"
 	{
-		"chi"		"**Dr. Valencia:吃我毒气!**"
+		"chi"		"**瓦伦西亚:尝尝我的厉害!**"
 	}
 	"**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
 	{
-		"chi"		"**Dr. Valencia:不要放僵尸进来!给我10秒准备核爆!**"
+		"chi"		"**瓦伦西亚:坚守大门!!我需要10秒钟用剩下的毒气去合成核爆！**"
 		"DoorCountdown"		"10"
 	}
 	"**Dr. Valencia:  Nuke in 3...**"
 	{
-		"chi"		"**Dr. Valencia:核爆还有3秒...**"
+		"chi"		"**瓦伦西亚:还有3秒钟进行核爆...**"
 	}
 	"**Dr. Valencia:  2...**"
 	{
-		"chi"		"**Dr. Valencia:2...**"
+		"chi"		"**瓦伦西亚: 2秒...**"
 	}
 	"**Dr. Valencia:  1...**"
 	{
-		"chi"		"**Dr. Valencia:1...**"
+		"chi"		"**瓦伦西亚: 1秒...**"
 	}
 	"-=Thanks for playing Evil Mansion!=-"
 	{
-		"chi"		"**感谢你游玩这张地图!**"
+		"chi"		"**谢谢参与整蛊之家!**"
 	}
 	"-= For comments, find me on the SCA clan forums!=-"
 	{
@@ -212,30 +212,30 @@
 	}
 	"**Sailor Moon: Hey Boys!  Im So Horny!  Come Touch Me!**"
 	{
-		"chi"		"** **"
+		"chi"		"**月野兔：大哥哥们，人家好污哦，快来推倒人家！**"
 	}
 	"**Sailor Moon: IM CUMMIN FOR YOU!**"
 	{
-		"chi"		"** **"
+		"chi"		"**月野兔：我要来推倒你了哦！**"
 	}
 	"WERE GOING DOWN!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**咸鱼们要自由落体啦！！**"
 	}
 	"-=WERE GOING DOWN!=-"
 	{
-		"chi"		"** **"
+		"chi"		"**咸鱼们要自由落体啦！！**"
 	}
 	"**Dr. Valencia:  Im in the john!**"
 	{
-		"chi"		"** **"
+		"chi"		"**瓦伦西亚:我是不会告诉你我藏在厕所里的! **"
 	}
 	"**Dr Valencia:  Ok... Ill open the door.**"
 	{
-		"chi"		"** **"
+		"chi"		"**瓦伦西亚:好啦……我帮你开门就是了..**"
 	}
 	"**Dr. Valencia:  Hold the door!  Ill use the remaining gas to conjure up a nuke!**"
 	{
-		"chi"		"** **"
+		"chi"		"**瓦伦西亚:坚守大门!!我需要10秒钟用剩下的毒气去合成核爆！**"
 	}
 }
